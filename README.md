@@ -146,8 +146,7 @@ Based on the analytical findings, the following strategies are proposed:
 ## 📜 License & Contributor
 
 **Developer:** Elvin Aurelio  
-**License:** MIT License — see the `LICENSE` file for details.
-
+**License:** No License
 ---
 
 ⭐ *If you find this project useful, consider giving it a star!*
